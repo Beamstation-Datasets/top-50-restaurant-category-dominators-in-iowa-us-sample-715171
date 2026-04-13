@@ -1,0 +1,22 @@
+{
+  "base_price": 1295,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
+  "config_name": "Top 50 Restaurant Category Dominators in Iowa, US",
+  "export_job_id": "bfeef370-8a1d-4256-a9fa-9e72608e0e77",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 715171,
+  "location_name": "Iowa",
+  "location_type": "state",
+  "repo_name": "top-50-restaurant-category-dominators-in-iowa-us-sample-715171",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/715171/beamstation_715171_restaurants-us-ia_SAMPLE_DIST.csv",
+  "sample_pct": 7.32,
+  "sample_records": 3,
+  "sample_sha256": "1be98d2af11ddb5f93ad67de18c65019f8bc8a5f6e22a8dc318c0710609df18d",
+  "sample_size_bytes": 27815,
+  "total_records": 41,
+  "updated_at": "2026-04-01T00:22:33.379475+00:00"
+}
