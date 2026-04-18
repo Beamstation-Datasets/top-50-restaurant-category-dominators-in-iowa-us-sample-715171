@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in Iowa, US
 
-> Free BeamStation sample export with 3 rows and masked direct-contact fields.
+> Free BeamStation sample export with 4 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `715171` |
 | Location | Iowa |
 | Category | Restaurants |
-| Full dataset size | 41 records |
-| Free sample size | 3 records (7.32%) |
-| Last export | 2026-04-01T00:22:33.379475+00:00 |
+| Full dataset size | 48 records |
+| Free sample size | 4 records (8.33%) |
+| Last export | 2026-04-15T02:06:11.143796+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-iowa-us-sample-715171/releases/download/sample-latest/beamstation_715171_restaurants-us-ia_SAMPLE_DIST.csv) |
 
 ## What is in this sample
