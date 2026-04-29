@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9e25f7bb-0fe6-4dfb-b028-95dc6c000e27",
+  "export_job_id": "7a4e1e54-4805-405b-8638-6d37b1080ac1",
   "id_short": 715171,
-  "published_at": "2026-04-22T07:54:31Z",
+  "published_at": "2026-04-29T19:12:36Z",
   "repo_name": "top-50-restaurant-category-dominators-in-iowa-us-sample-715171",
   "sample_asset_name": "beamstation_715171_restaurants-us-ia_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/715171/beamstation_715171_restaurants-us-ia_SAMPLE_DIST.csv",
-  "sample_records": 6,
-  "sample_sha256": "984b2c4ae4bcf42ccefbe83fb0fccaca265529e6fd51c41e35a8eb34e9957bbc",
-  "sample_size_bytes": 36496,
-  "total_records": 65
+  "sample_records": 5,
+  "sample_sha256": "48ff423251dd818c29c627425354d82968af505b232e867d0e795975ef02e1e1",
+  "sample_size_bytes": 36502,
+  "total_records": 59
 }
